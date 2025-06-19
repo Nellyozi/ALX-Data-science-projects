@@ -24,4 +24,4 @@ Folders are organised by sprint weeks and topics.
 
 ## Connect with Me  
 - [LinkedIn](#)  
-- [Blog](#)
+  
