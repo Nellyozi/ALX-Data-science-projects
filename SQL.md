@@ -2,7 +2,7 @@
 
 ## Objective
 
-## What I Learned
+## What I Learnt
 
 ## Challenges
 
